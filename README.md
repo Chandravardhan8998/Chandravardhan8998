@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandravardhan8998" alt="chandravardhan8998" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Generative AI Development**
+
+- 👋 **NextJS, Python**
 
 - 💬 Ask me about **react native, typescript**
 
