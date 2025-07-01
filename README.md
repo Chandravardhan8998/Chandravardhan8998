@@ -24,5 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandravardhan8998&show_icons=true&locale=en&layout=compact" alt="chandravardhan8998" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandravardhan8998&show_icons=true&locale=en" alt="chandravardhan8998" /></p>
-
-(https://streak-stats.demolab.com/?user=chandravardhan8998)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chandravardhan8998&theme=dark&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
