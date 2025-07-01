@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandravardhan8998&show_icons=true&locale=en" alt="chandravardhan8998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandravardhan8998&" alt="chandravardhan8998" /></p>
+(https://streak-stats.demolab.com/?user=chandravardhan8998)](https://git.io/streak-stats)
