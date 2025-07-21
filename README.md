@@ -1,17 +1,77 @@
 <h1 align="center">Hi 👋, I'm Chandra Vardhan</h1>
 <h3 align="center">React Native Developer from INDIA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandravardhan8998&label=Profile%20views&color=0e75b6&style=flat" alt="chandravardhan8998" /> </p>
+![React Native](https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=61dafb&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Typescript](https://img.shields.io/badge/Typescript-3178c6?logo=typescript&logoColor=white&style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-ffb300?logo=OpenAI&logoColor=white&style=flat-square)
+![Langgraph](https://img.shields.io/badge/Langgraph-333333?logo=python&logoColor=white&style=flat-square)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandravardhan8998" alt="chandravardhan8998" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Generative AI Development**
+## 🧘 React Native & Python Full Stack Developer
 
-- 👋 **NextJS, Python**
+Welcome to my GitHub profile — crafted in zen mode for focus, clarity, and a little fun.
 
-- 💬 Ask me about **react native, typescript**
+---
 
-- 📫 How to reach me **chandravardhansingh2@gmail.com**
+### 🔥 **GitHub Streak & Contribution Graph**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chandravardhan8998&theme=zenburn&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![Monthly Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Chandravardhan8998&custom_title=My%20Monthly%20Contribution%20Graph)
+
+---
+
+### 💻 **Tech Stack & Expertise**
+
+<div align="center">
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=61dafb&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/Generative%20AI-ffb300?logo=OpenAI&logoColor=white&style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Langgraph-333333?logo=python&logoColor=white&style=for-the-badge" alt="Langgraph" />
+
+</div>
+
+---
+
+### 🌟 **Favorite Project**
+- 🔗 [Bifrostflow](#) — My personal highlight!
+
+---
+
+### 🧠 **Personal Motto**
+> _Want to build more projects so I can show more projects._
+
+---
+
+### 🎸 **Interests & Hobbies**
+- 🎵 Music  
+- 📷 Photography  
+- 🎮 Gaming  
+
+---
+
+### 🔗 **Social Links**
+- [GitHub](#)  
+- [LinkedIn](#)  
+- [Twitter](#)  
+_Leave placeholders — I'll fill them in soon!_
+
+---
+
+Feel free to explore my repos and connect if you share similar interests or want to collaborate!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
